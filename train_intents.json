@@ -1,0 +1,232 @@
+{"train_dataset":
+	{
+		"folders":
+		[
+			{	"id":1,
+				"text":"Can you open the {file_name:} folder ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":2,
+				"text":"Could you please open the {file_name:} folder ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":3,
+				"text":"Please open the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":4,
+				"text":"Can you open the {file_name:} folder ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":5,
+				"text":"I would like to open the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":6,
+				"text":"I would like to open the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":7,
+				"text":"I would like to open the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":8,
+				"text":"Open the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":9,
+				"text":"Show me the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":10,
+				"text":"Display the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":12,
+				"text":"Hey would you please open the {file_name:} folder for me ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":13,
+				"text":"List the content of the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":14,
+				"text":"Open the {file_name:} subfolder under {parent_folder:}",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":15,
+				"text":"Show me the {file_name:} subfolder under {parent_directory:}",
+				"intent":"Open_file_desire"
+			},
+			{	"id":1,
+				"text":"Can you open the {file_name:} directory ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":2,
+				"text":"Could you please open the {file_name:} directory ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":3,
+				"text":"Please open the {file_name:} directory",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":4,
+				"text":"Can you open the {file_name:} directory ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":5,
+				"text":"I would like to open the {file_name:} directory",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":6,
+				"text":"I would like to open the {file_name:} directory",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":7,
+				"text":"I would like to open the {file_name:} directory",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":8,
+				"text":"Open the {file_name:} directory",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":9,
+				"text":"Show me the {file_name:} directory",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":10,
+				"text":"Display the {file_name:} directory",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":12,
+				"text":"Hey would you please open the {file_name:} directory for me ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":13,
+				"text":"List the content of the {file_name:} directory",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":14,
+				"text":"Open the {file_name:} subdirectory under {parent_directory:}",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":15,
+				"text":"Show me the {file_name:} subdirectory under {parent_directory:}",
+				"intent":"Open_file_desire"
+			}
+		],
+
+		"files":
+		[
+			{	"id":1,
+				"text":"Can you open the file named {file_name:} ?",
+				"intent":"Open_file_desire"
+			},
+			{	"id":1,
+				"text":"Can you open the file {file_name:} ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":2,
+				"text":"Could you please open file named {file_name:} ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":2,
+				"text":"Could you please open file {file_name:} ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":2,
+				"text":"Could you please open file named {file_name:} ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":3,
+				"text":"Please open the file named {file_name:}",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":3,
+				"text":"Please open the file {file_name:}",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":4,
+				"text":"Can you open the file named {file_name:} ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":4,
+				"text":"Can you open the file {file_name:} ?",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":5,
+				"text":"I would like to open the file named {file_name:}",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":5,
+				"text":"I would like to open the file {file_name:}",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":6,
+				"text":"I would like to open the file named {file_name:}",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":7,
+				"text":"I would like to open the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":8,
+				"text":"Open the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":9,
+				"text":"Show me the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":10,
+				"text":"Display the {file_name:} folder",
+				"intent":"Open_file_desire"
+			},
+			{
+				"id":12,
+				"text":"Hey would you please open the {file_name:} folder for me ?",
+				"intent":"Open_file_desire"
+			}
+		]
+	}
+}
