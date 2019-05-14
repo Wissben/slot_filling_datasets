@@ -9,6 +9,12 @@
 		"deny",
 		"confirm"
 	],
+	"tags_set": [
+		"NUL",
+		"file_name",
+		"parent_directory",
+		"new_directory"
+	],
 	"train_dataset": {
 		"folders": [
 			{
