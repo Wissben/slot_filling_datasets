@@ -7,7 +7,8 @@
 		"change_directory_desire",
 		"inform",
 		"deny",
-		"confirm"
+		"confirm",
+		"uknown"
 	],
 	"tags_set": [
 		"NUL",
