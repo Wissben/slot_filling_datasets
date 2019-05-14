@@ -14,7 +14,8 @@
 		"NUL",
 		"file_name",
 		"parent_directory",
-		"new_directory"
+		"new_directory",
+		"parent_folder"
 	],
 	"train_dataset": {
 		"folders": [
