@@ -1716,7 +1716,7 @@
 				"id": 1,
 				"text": "Sounds bad to me",
 				"intent": "deny"
-			},
+			}
 		]
 	}
 }
