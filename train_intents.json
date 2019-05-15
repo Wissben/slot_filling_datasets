@@ -14,8 +14,7 @@
 		"NUL",
 		"file_name",
 		"parent_directory",
-		"new_directory",
-		"parent_folder"
+		"new_directory"
 	],
 	"train_dataset": {
 		"folders": [
@@ -81,7 +80,7 @@
 			},
 			{
 				"id": 14,
-				"text": "Open the {file_name:} subfolder under {parent_folder:}",
+				"text": "Open the {file_name:} subfolder under {parent_directory:}",
 				"intent": "open_file_desire"
 			},
 			{
@@ -191,7 +190,7 @@
 			},
 			{
 				"id": 14,
-				"text": "close the {file_name:} subfolder under {parent_folder:}",
+				"text": "close the {file_name:} subfolder under {parent_directory:}",
 				"intent": "close_file_desire"
 			},
 			{
@@ -286,7 +285,7 @@
 			},
 			{
 				"id": 13,
-				"text": "create the {file_name:} subfolder under {parent_folder:}",
+				"text": "create the {file_name:} subfolder under {parent_directory:}",
 				"intent": "create_file_desire"
 			},
 			{
@@ -391,7 +390,7 @@
 			},
 			{
 				"id": 13,
-				"text": "make the {file_name:} subfolder under {parent_folder:}",
+				"text": "make the {file_name:} subfolder under {parent_directory:}",
 				"intent": "create_file_desire"
 			},
 			{
