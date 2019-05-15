@@ -11,10 +11,10 @@
 		"uknown"
 	],
 	"tags_set": [
-		"NUL",
 		"file_name",
 		"parent_directory",
-		"new_directory"
+		"new_directory",
+		"NUL"
 	],
 	"train_dataset": {
 		"folders": [
