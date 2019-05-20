@@ -1188,77 +1188,77 @@
 			},
 			{
 				"id": 14,
-				"text": "delete the {file_name:} subfile under {parent_directory:}",
+				"text": "delete the {file_name:} file under {parent_directory:}",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 15,
-				"text": "delete me the {file_name:} subfile under {parent_directory:}",
+				"text": "delete me the {file_name:} file under {parent_directory:}",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 1,
-				"text": "Can you delete the {file_name:} directory",
+				"text": "Can you delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please delete the {file_name:} directory",
+				"text": "Could you please delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 3,
-				"text": "Please delete the {file_name:} directory",
+				"text": "Please delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 4,
-				"text": "Can you delete the {file_name:} directory",
+				"text": "Can you delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 6,
-				"text": "I want to delete the {file_name:} directory",
+				"text": "I want to delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 6,
-				"text": "I want you to delete the {file_name:} directory",
+				"text": "I want you to delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 7,
-				"text": "I would like to delete the {file_name:} directory",
+				"text": "I would like to delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 8,
-				"text": "delete the {file_name:} directory",
+				"text": "delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 9,
-				"text": "delete me the {file_name:} directory",
+				"text": "delete me the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 10,
-				"text": "delete the {file_name:} directory",
+				"text": "delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please delete the {file_name:} directory for me",
+				"text": "Hey would you please delete the {file_name:} file for me",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 13,
-				"text": "delete the content of the {file_name:} directory",
+				"text": "delete the content of the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 14,
-				"text": "delete the {file_name:} subdirectory under {parent_directory:}",
+				"text": "delete the {file_name:} file under {parent_directory:}",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1328,67 +1328,67 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you remove the {file_name:} directory",
+				"text": "Can you remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please remove the {file_name:} directory",
+				"text": "Could you please remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 3,
-				"text": "Please remove the {file_name:} directory",
+				"text": "Please remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 4,
-				"text": "Can you remove the {file_name:} directory",
+				"text": "Can you remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 6,
-				"text": "I want to remove the {file_name:} directory",
+				"text": "I want to remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 6,
-				"text": "I want you to remove the {file_name:} directory",
+				"text": "I want you to remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 7,
-				"text": "I would like to remove the {file_name:} directory",
+				"text": "I would like to remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 8,
-				"text": "remove the {file_name:} directory",
+				"text": "remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 9,
-				"text": "remove me the {file_name:} directory",
+				"text": "remove me the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 10,
-				"text": "remove the {file_name:} directory",
+				"text": "remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please remove the {file_name:} directory for me",
+				"text": "Hey would you please remove the {file_name:} file for me",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 13,
-				"text": "remove the content of the {file_name:} directory",
+				"text": "remove the content of the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 14,
-				"text": "remove the {file_name:} subdirectory under {parent_directory:}",
+				"text": "remove the {file_name:} file under {parent_directory:}",
 				"intent": "delete_file_desire"
 			}
 		],
