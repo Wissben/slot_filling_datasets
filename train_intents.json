@@ -21,12 +21,12 @@
 		"folders": [
 			{
 				"id": 1,
-				"text": "Can you open the {file_name:} folder ?",
+				"text": "Can you open the {file_name:} folder",
 				"intent": "open_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please open the {file_name:} folder ?",
+				"text": "Could you please open the {file_name:} folder",
 				"intent": "open_file_desire"
 			},
 			{
@@ -36,7 +36,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you open the {file_name:} folder ?",
+				"text": "Can you open the {file_name:} folder",
 				"intent": "open_file_desire"
 			},
 			{
@@ -66,7 +66,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please open the {file_name:} folder for me ?",
+				"text": "Hey would you please open the {file_name:} folder for me",
 				"intent": "open_file_desire"
 			},
 			{
@@ -86,12 +86,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you open the {file_name:} directory ?",
+				"text": "Can you open the {file_name:} directory",
 				"intent": "open_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please open the {file_name:} directory ?",
+				"text": "Could you please open the {file_name:} directory",
 				"intent": "open_file_desire"
 			},
 			{
@@ -101,7 +101,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you open the {file_name:} directory ?",
+				"text": "Can you open the {file_name:} directory",
 				"intent": "open_file_desire"
 			},
 			{
@@ -131,7 +131,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please open the {file_name:} directory for me ?",
+				"text": "Hey would you please open the {file_name:} directory for me",
 				"intent": "open_file_desire"
 			},
 			{
@@ -146,12 +146,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you close the {file_name:} folder ?",
+				"text": "Can you close the {file_name:} folder",
 				"intent": "close_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please close the {file_name:} folder ?",
+				"text": "Could you please close the {file_name:} folder",
 				"intent": "close_file_desire"
 			},
 			{
@@ -161,7 +161,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you close the {file_name:} folder ?",
+				"text": "Can you close the {file_name:} folder",
 				"intent": "close_file_desire"
 			},
 			{
@@ -181,7 +181,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please close the {file_name:} folder for me ?",
+				"text": "Hey would you please close the {file_name:} folder for me",
 				"intent": "close_file_desire"
 			},
 			{
@@ -191,12 +191,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you close the {file_name:} directory ?",
+				"text": "Can you close the {file_name:} directory",
 				"intent": "close_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please close the {file_name:} directory ?",
+				"text": "Could you please close the {file_name:} directory",
 				"intent": "close_file_desire"
 			},
 			{
@@ -206,7 +206,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you close the {file_name:} directory ?",
+				"text": "Can you close the {file_name:} directory",
 				"intent": "close_file_desire"
 			},
 			{
@@ -226,7 +226,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please close the {file_name:} directory for me ?",
+				"text": "Hey would you please close the {file_name:} directory for me",
 				"intent": "close_file_desire"
 			},
 			{
@@ -236,12 +236,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you create the {file_name:} folder ?",
+				"text": "Can you create the {file_name:} folder",
 				"intent": "create_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please create the {file_name:} folder ?",
+				"text": "Could you please create the {file_name:} folder",
 				"intent": "create_file_desire"
 			},
 			{
@@ -251,7 +251,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you create the {file_name:} folder ?",
+				"text": "Can you create the {file_name:} folder",
 				"intent": "create_file_desire"
 			},
 			{
@@ -281,7 +281,7 @@
 			},
 			{
 				"id": 11,
-				"text": "Hey would you please create the {file_name:} folder for me ?",
+				"text": "Hey would you please create the {file_name:} folder for me",
 				"intent": "create_file_desire"
 			},
 			{
@@ -296,12 +296,12 @@
 			},
 			{
 				"id": 15,
-				"text": "Can you create the {file_name:} directory ?",
+				"text": "Can you create the {file_name:} directory",
 				"intent": "create_file_desire"
 			},
 			{
 				"id": 16,
-				"text": "Could you please create the {file_name:} directory ?",
+				"text": "Could you please create the {file_name:} directory",
 				"intent": "create_file_desire"
 			},
 			{
@@ -311,7 +311,7 @@
 			},
 			{
 				"id": 18,
-				"text": "Can you create the {file_name:} directory ?",
+				"text": "Can you create the {file_name:} directory",
 				"intent": "create_file_desire"
 			},
 			{
@@ -336,17 +336,17 @@
 			},
 			{
 				"id": 25,
-				"text": "Hey would you please create the {file_name:} directory for me ?",
+				"text": "Hey would you please create the {file_name:} directory for me",
 				"intent": "create_file_desire"
 			},
 			{
 				"id": 1,
-				"text": "Can you create the {file_name:} folder ?",
+				"text": "Can you create the {file_name:} folder",
 				"intent": "create_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please make the {file_name:} folder ?",
+				"text": "Could you please make the {file_name:} folder",
 				"intent": "create_file_desire"
 			},
 			{
@@ -356,7 +356,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you make the {file_name:} folder ?",
+				"text": "Can you make the {file_name:} folder",
 				"intent": "create_file_desire"
 			},
 			{
@@ -386,7 +386,7 @@
 			},
 			{
 				"id": 11,
-				"text": "Hey would you please make the {file_name:} folder for me ?",
+				"text": "Hey would you please make the {file_name:} folder for me",
 				"intent": "create_file_desire"
 			},
 			{
@@ -401,12 +401,12 @@
 			},
 			{
 				"id": 15,
-				"text": "Can you make the {file_name:} directory ?",
+				"text": "Can you make the {file_name:} directory",
 				"intent": "create_file_desire"
 			},
 			{
 				"id": 16,
-				"text": "Could you please make the {file_name:} directory ?",
+				"text": "Could you please make the {file_name:} directory",
 				"intent": "create_file_desire"
 			},
 			{
@@ -416,7 +416,7 @@
 			},
 			{
 				"id": 18,
-				"text": "Can you make the {file_name:} directory ?",
+				"text": "Can you make the {file_name:} directory",
 				"intent": "create_file_desire"
 			},
 			{
@@ -441,17 +441,17 @@
 			},
 			{
 				"id": 25,
-				"text": "Hey would you please make the {file_name:} directory for me ?",
+				"text": "Hey would you please make the {file_name:} directory for me",
 				"intent": "create_file_desire"
 			},
 			{
 				"id": 1,
-				"text": "Can you delete the {file_name:} folder ?",
+				"text": "Can you delete the {file_name:} folder",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please delete the {file_name:} folder ?",
+				"text": "Could you please delete the {file_name:} folder",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -461,7 +461,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you delete the {file_name:} folder ?",
+				"text": "Can you delete the {file_name:} folder",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -491,7 +491,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please delete the {file_name:} folder for me ?",
+				"text": "Hey would you please delete the {file_name:} folder for me",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -511,12 +511,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you delete the {file_name:} directory ?",
+				"text": "Can you delete the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please delete the {file_name:} directory ?",
+				"text": "Could you please delete the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -526,7 +526,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you delete the {file_name:} directory ?",
+				"text": "Can you delete the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -561,7 +561,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please delete the {file_name:} directory for me ?",
+				"text": "Hey would you please delete the {file_name:} directory for me",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -576,12 +576,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you remove the {file_name:} folder ?",
+				"text": "Can you remove the {file_name:} folder",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please remove the {file_name:} folder ?",
+				"text": "Could you please remove the {file_name:} folder",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -591,7 +591,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you remove the {file_name:} folder ?",
+				"text": "Can you remove the {file_name:} folder",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -621,7 +621,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please remove the {file_name:} folder for me ?",
+				"text": "Hey would you please remove the {file_name:} folder for me",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -641,12 +641,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you remove the {file_name:} directory ?",
+				"text": "Can you remove the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please remove the {file_name:} directory ?",
+				"text": "Could you please remove the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -656,7 +656,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you remove the {file_name:} directory ?",
+				"text": "Can you remove the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -691,7 +691,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please remove the {file_name:} directory for me ?",
+				"text": "Hey would you please remove the {file_name:} directory for me",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -706,42 +706,42 @@
 			},
 			{
 				"id": 1,
-				"text": "Move to {new_directory:} directory ",
+				"text": "Move to {new_directory:} directory",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "Move to {new_directory:} folder ",
+				"text": "Move to {new_directory:} folder",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "change the current working space to the {new_directory:} directory ",
+				"text": "change the current working space to the {new_directory:} directory",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "change the current working space to the {new_directory:}folder ",
+				"text": "change the current working space to the {new_directory:}folder",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "change to the {new_directory:} directory ",
+				"text": "change to the {new_directory:} directory",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "change to the {new_directory:} folder ",
+				"text": "change to the {new_directory:} folder",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "find and move to the {new_directory:} directory ",
+				"text": "find and move to the {new_directory:} directory",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 15,
-				"text": "find and move to the {new_directory:} folder ",
+				"text": "find and move to the {new_directory:} folder",
 				"intent": "change_directory_desire"
 			},
 			{
@@ -786,42 +786,42 @@
 			},
 			{
 				"id": 1,
-				"text": "Move to {new_directory:} directory ",
+				"text": "Move to {new_directory:} directory",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "Move to {new_directory:} folder ",
+				"text": "Move to {new_directory:} folder",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "change the current working space to the {new_directory:} directory ",
+				"text": "change the current working space to the {new_directory:} directory",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "change the current working space to the {new_directory:}folder ",
+				"text": "change the current working space to the {new_directory:}folder",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "change to the {new_directory:} directory ",
+				"text": "change to the {new_directory:} directory",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "change to the {new_directory:} folder ",
+				"text": "change to the {new_directory:} folder",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "find and move to the {new_directory:} directory ",
+				"text": "find and move to the {new_directory:} directory",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 15,
-				"text": "find and move to the {new_directory:} folder ",
+				"text": "find and move to the {new_directory:} folder",
 				"intent": "change_directory_desire"
 			},
 			{
@@ -866,32 +866,32 @@
 			},
 			{
 				"id": 1,
-				"text": "Would you please move to {new_directory:} directory ?",
+				"text": "Would you please move to {new_directory:} directory",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "Would you please move to {new_directory:} folder ?",
+				"text": "Would you please move to {new_directory:} folder",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "Could you change the current working space to the {new_directory:} directory ?",
+				"text": "Could you change the current working space to the {new_directory:} directory",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "Can you please change the current working space to the {new_directory:}folder ?",
+				"text": "Can you please change the current working space to the {new_directory:}folder",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "I would liek to change the working directory to the {new_directory:} folder ",
+				"text": "I would liek to change the working directory to the {new_directory:} folder",
 				"intent": "change_directory_desire"
 			},
 			{
 				"id": 1,
-				"text": "Move on to the {new_directory:} folder ",
+				"text": "Move on to the {new_directory:} folder",
 				"intent": "change_directory_desire"
 			},
 			{
@@ -901,7 +901,7 @@
 			},
 			{
 				"id": 15,
-				"text": "find and move to the {new_directory:} folder ",
+				"text": "find and move to the {new_directory:} folder",
 				"intent": "change_directory_desire"
 			},
 			{
@@ -948,27 +948,27 @@
 		"files": [
 			{
 				"id": 1,
-				"text": "Can you open the file named {file_name:} ?",
+				"text": "Can you open the file named {file_name:}",
 				"intent": "open_file_desire"
 			},
 			{
 				"id": 1,
-				"text": "Can you open the file {file_name:} ?",
+				"text": "Can you open the file {file_name:}",
 				"intent": "open_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please open file named {file_name:} ?",
+				"text": "Could you please open file named {file_name:}",
 				"intent": "open_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please open file {file_name:} ?",
+				"text": "Could you please open file {file_name:}",
 				"intent": "open_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please open file named {file_name:} ?",
+				"text": "Could you please open file named {file_name:}",
 				"intent": "open_file_desire"
 			},
 			{
@@ -983,12 +983,12 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you open the file named {file_name:} ?",
+				"text": "Can you open the file named {file_name:}",
 				"intent": "open_file_desire"
 			},
 			{
 				"id": 4,
-				"text": "Can you open the file {file_name:} ?",
+				"text": "Can you open the file {file_name:}",
 				"intent": "open_file_desire"
 			},
 			{
@@ -1023,12 +1023,12 @@
 			},
 			{
 				"id": 9,
-				"text": "Show me the file named {file_name:} ",
+				"text": "Show me the file named {file_name:}",
 				"intent": "open_file_desire"
 			},
 			{
 				"id": 9,
-				"text": "Show me the file {file_name:} ",
+				"text": "Show me the file {file_name:}",
 				"intent": "open_file_desire"
 			},
 			{
@@ -1043,37 +1043,37 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please open the file named {file_name:} for me ?",
+				"text": "Hey would you please open the file named {file_name:} for me",
 				"intent": "open_file_desire"
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please open the file {file_name:} for me ?",
+				"text": "Hey would you please open the file {file_name:} for me",
 				"intent": "open_file_desire"
 			},
 			{
 				"id": 1,
-				"text": "Can you close the file named {file_name:} ?",
+				"text": "Can you close the file named {file_name:}",
 				"intent": "close_file_desire"
 			},
 			{
 				"id": 1,
-				"text": "Can you close the file {file_name:} ?",
+				"text": "Can you close the file {file_name:}",
 				"intent": "close_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please close file named {file_name:} ?",
+				"text": "Could you please close file named {file_name:}",
 				"intent": "close_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please close file {file_name:} ?",
+				"text": "Could you please close file {file_name:}",
 				"intent": "close_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please close file named {file_name:} ?",
+				"text": "Could you please close file named {file_name:}",
 				"intent": "close_file_desire"
 			},
 			{
@@ -1088,12 +1088,12 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you close the file named {file_name:} ?",
+				"text": "Can you close the file named {file_name:}",
 				"intent": "close_file_desire"
 			},
 			{
 				"id": 4,
-				"text": "Can you close the file {file_name:} ?",
+				"text": "Can you close the file {file_name:}",
 				"intent": "close_file_desire"
 			},
 			{
@@ -1118,27 +1118,27 @@
 			},
 			{
 				"id": 9,
-				"text": "Show me the file named {file_name:} ",
+				"text": "Show me the file named {file_name:}",
 				"intent": "close_file_desire"
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please close the file named {file_name:} for me ?",
+				"text": "Hey would you please close the file named {file_name:} for me",
 				"intent": "close_file_desire"
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please close the file {file_name:} for me ?",
+				"text": "Hey would you please close the file {file_name:} for me",
 				"intent": "close_file_desire"
 			},
 			{
 				"id": 1,
-				"text": "Can you delete the {file_name:} file ?",
+				"text": "Can you delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please delete the {file_name:} file ?",
+				"text": "Could you please delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1148,7 +1148,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you delete the {file_name:} file ?",
+				"text": "Can you delete the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1178,7 +1178,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please delete the {file_name:} file for me ?",
+				"text": "Hey would you please delete the {file_name:} file for me",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1198,12 +1198,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you delete the {file_name:} directory ?",
+				"text": "Can you delete the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please delete the {file_name:} directory ?",
+				"text": "Could you please delete the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1213,7 +1213,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you delete the {file_name:} directory ?",
+				"text": "Can you delete the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1248,7 +1248,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please delete the {file_name:} directory for me ?",
+				"text": "Hey would you please delete the {file_name:} directory for me",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1263,12 +1263,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you remove the {file_name:} file ?",
+				"text": "Can you remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please remove the {file_name:} file ?",
+				"text": "Could you please remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1278,7 +1278,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you remove the {file_name:} file ?",
+				"text": "Can you remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1308,7 +1308,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please remove the {file_name:} file for me ?",
+				"text": "Hey would you please remove the {file_name:} file for me",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1328,12 +1328,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you remove the {file_name:} directory ?",
+				"text": "Can you remove the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
 				"id": 2,
-				"text": "Could you please remove the {file_name:} directory ?",
+				"text": "Could you please remove the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1343,7 +1343,7 @@
 			},
 			{
 				"id": 4,
-				"text": "Can you remove the {file_name:} directory ?",
+				"text": "Can you remove the {file_name:} directory",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1378,7 +1378,7 @@
 			},
 			{
 				"id": 12,
-				"text": "Hey would you please remove the {file_name:} directory for me ?",
+				"text": "Hey would you please remove the {file_name:} directory for me",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1395,11 +1395,6 @@
 		"others": [
 			{
 				"id": 1,
-				"text": "Yes !",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
 				"text": "Yes",
 				"intent": "confirm"
 			},
@@ -1410,32 +1405,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Yep !",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
 				"text": "Absolutely",
 				"intent": "confirm"
 			},
 			{
 				"id": 1,
-				"text": "Absolutely !",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
 				"text": "Yeah",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
-				"text": "Yeah !",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
-				"text": "That's it !",
 				"intent": "confirm"
 			},
 			{
@@ -1450,22 +1425,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Totally !",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
 				"text": "Totally",
 				"intent": "confirm"
 			},
 			{
 				"id": 1,
 				"text": "Yeah just do that",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
-				"text": "Okay !",
 				"intent": "confirm"
 			},
 			{
@@ -1485,17 +1450,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Sure !",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
 				"text": "Sure",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
-				"text": "Fair enough !",
 				"intent": "confirm"
 			},
 			{
@@ -1505,17 +1460,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Good !",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
 				"text": "Perfect",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
-				"text": "Perfect !",
 				"intent": "confirm"
 			},
 			{
@@ -1555,23 +1500,8 @@
 			},
 			{
 				"id": 1,
-				"text": "Ideally !",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
 				"text": "Great",
 				"intent": "confirm"
-			},
-			{
-				"id": 1,
-				"text": "Great !",
-				"intent": "confirm"
-			},
-			{
-				"id": 1,
-				"text": "Sounds good !",
-				"intent": "deny"
 			},
 			{
 				"id": 1,
@@ -1585,17 +1515,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Sounds bad to me !",
-				"intent": "deny"
-			},
-			{
-				"id": 1,
 				"text": "No",
-				"intent": "deny"
-			},
-			{
-				"id": 1,
-				"text": "No !",
 				"intent": "deny"
 			},
 			{
@@ -1621,11 +1541,6 @@
 			{
 				"id": 1,
 				"text": "Absolutley not",
-				"intent": "deny"
-			},
-			{
-				"id": 1,
-				"text": "Absolutley not !",
 				"intent": "deny"
 			},
 			{
@@ -1685,17 +1600,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Definitely not !",
-				"intent": "deny"
-			},
-			{
-				"id": 1,
 				"text": "Definitely not",
-				"intent": "deny"
-			},
-			{
-				"id": 1,
-				"text": "Surely not !",
 				"intent": "deny"
 			},
 			{
