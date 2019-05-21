@@ -1,7 +1,9 @@
 {
 	"intents_set": [
 		"create_file_desire",
+		"create_directory_desire",
 		"delete_file_desire",
+		"delete_directory_desire",
 		"open_file_desire",
 		"close_file_desire",
 		"change_directory_desire",
@@ -11,7 +13,6 @@
 		"uknown"
 	],
 	"tags_set": [
-		"PAD",
 		"file_name",
 		"parent_directory",
 		"new_directory",
@@ -237,472 +238,472 @@
 			{
 				"id": 1,
 				"text": "Can you create the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 2,
 				"text": "Could you please create the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 3,
 				"text": "Please create the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 4,
 				"text": "Can you create the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 5,
 				"text": "I would like to create the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 6,
 				"text": "I would like to create the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 7,
 				"text": "I would like to create the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 8,
 				"text": "create the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 9,
 				"text": "Show me the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 11,
 				"text": "Hey would you please create the {file_name:} folder for me",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 13,
 				"text": "create the {file_name:} subfolder under {parent_directory:}",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 14,
 				"text": "Show me the {file_name:} subfolder under {parent_directory:}",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 15,
 				"text": "Can you create the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 16,
 				"text": "Could you please create the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 17,
 				"text": "Please create the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 18,
 				"text": "Can you create the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 19,
 				"text": "I would like to create the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 20,
 				"text": "I would like to create the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 21,
 				"text": "I would like to create the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 22,
 				"text": "create the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 25,
 				"text": "Hey would you please create the {file_name:} directory for me",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 1,
 				"text": "Can you create the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 2,
 				"text": "Could you please make the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 3,
 				"text": "Please make the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 4,
 				"text": "Can you make the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 5,
 				"text": "I would like to make the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 6,
 				"text": "I would like to make the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 7,
 				"text": "I would like to make the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 8,
 				"text": "make the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 9,
 				"text": "Show me the {file_name:} folder",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 11,
 				"text": "Hey would you please make the {file_name:} folder for me",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 13,
 				"text": "make the {file_name:} subfolder under {parent_directory:}",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 14,
 				"text": "Show me the {file_name:} subfolder under {parent_directory:}",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 15,
 				"text": "Can you make the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 16,
 				"text": "Could you please make the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 17,
 				"text": "Please make the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 18,
 				"text": "Can you make the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 19,
 				"text": "I would like to make the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 20,
 				"text": "I would like to make the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 21,
 				"text": "I would like to make the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 22,
 				"text": "make the {file_name:} directory",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 25,
 				"text": "Hey would you please make the {file_name:} directory for me",
-				"intent": "create_file_desire"
+				"intent": "create_directory_desire"
 			},
 			{
 				"id": 1,
 				"text": "Can you delete the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 2,
 				"text": "Could you please delete the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 3,
 				"text": "Please delete the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 4,
 				"text": "Can you delete the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 6,
 				"text": "I want to delete the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 7,
 				"text": "I would like to delete the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 8,
 				"text": "delete the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 9,
 				"text": "delete me the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 10,
 				"text": "delete the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 12,
 				"text": "Hey would you please delete the {file_name:} folder for me",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 13,
 				"text": "delete the content of the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 14,
 				"text": "delete the {file_name:} subfolder under {parent_directory:}",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 15,
 				"text": "delete me the {file_name:} subfolder under {parent_directory:}",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 1,
 				"text": "Can you delete the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 2,
 				"text": "Could you please delete the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 3,
 				"text": "Please delete the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 4,
 				"text": "Can you delete the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 6,
 				"text": "I want to delete the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 6,
 				"text": "I want you to delete the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 7,
 				"text": "I would like to delete the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 8,
 				"text": "delete the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 9,
 				"text": "delete me the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 10,
 				"text": "delete the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 12,
 				"text": "Hey would you please delete the {file_name:} directory for me",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 13,
 				"text": "delete the content of the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 14,
 				"text": "delete the {file_name:} subdirectory under {parent_directory:}",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 1,
 				"text": "Can you remove the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 2,
 				"text": "Could you please remove the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 3,
 				"text": "Please remove the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 4,
 				"text": "Can you remove the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 6,
 				"text": "I want to remove the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 7,
 				"text": "I would like to remove the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 8,
 				"text": "remove the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 9,
 				"text": "remove me the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 10,
 				"text": "remove the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 12,
 				"text": "Hey would you please remove the {file_name:} folder for me",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 13,
 				"text": "remove the content of the {file_name:} folder",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 14,
 				"text": "remove the {file_name:} subfolder under {parent_directory:}",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 15,
 				"text": "remove me the {file_name:} subfolder under {parent_directory:}",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 1,
 				"text": "Can you remove the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 2,
 				"text": "Could you please remove the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 3,
 				"text": "Please remove the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 4,
 				"text": "Can you remove the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 6,
 				"text": "I want to remove the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 6,
 				"text": "I want you to remove the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 7,
 				"text": "I would like to remove the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 8,
 				"text": "remove the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 9,
 				"text": "remove me the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 10,
 				"text": "remove the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 12,
 				"text": "Hey would you please remove the {file_name:} directory for me",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 13,
 				"text": "remove the content of the {file_name:} directory",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 14,
 				"text": "remove the {file_name:} subdirectory under {parent_directory:}",
-				"intent": "delete_file_desire"
+				"intent": "delete_directory_desire"
 			},
 			{
 				"id": 1,
@@ -948,6 +949,216 @@
 		"files": [
 			{
 				"id": 1,
+				"text": "Can you create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 2,
+				"text": "Could you please create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 3,
+				"text": "Please create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 4,
+				"text": "Can you create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 5,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 6,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 7,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 8,
+				"text": "create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 9,
+				"text": "Show me the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 11,
+				"text": "Hey would you please create the {file_name:} file for me",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 13,
+				"text": "create the {file_name:} file under {parent_directory:}",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 14,
+				"text": "Show me the {file_name:} file under {parent_directory:}",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 15,
+				"text": "Can you create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 16,
+				"text": "Could you please create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 17,
+				"text": "Please create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 18,
+				"text": "Can you create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 19,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 20,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 21,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 22,
+				"text": "create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 25,
+				"text": "Hey would you please create the {file_name:} file for me",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 2,
+				"text": "Could you please make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 3,
+				"text": "Please make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 4,
+				"text": "Can you make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 5,
+				"text": "I would like to make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 6,
+				"text": "I would like to make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 7,
+				"text": "I would like to make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 8,
+				"text": "make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 9,
+				"text": "Show me the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 11,
+				"text": "Hey would you please make the {file_name:} file for me",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 13,
+				"text": "make the {file_name:} file under {parent_directory:}",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 14,
+				"text": "Show me the {file_name:} file under {parent_directory:}",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 15,
+				"text": "Can you make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 16,
+				"text": "Could you please make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 17,
+				"text": "Please make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 18,
+				"text": "Can you make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 19,
+				"text": "I would like to make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 20,
+				"text": "I would like to make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 21,
+				"text": "I would like to make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 22,
+				"text": "make the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 25,
+				"text": "Hey would you please make the {file_name:} file for me",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 1,
 				"text": "Can you open the file named {file_name:}",
 				"intent": "open_file_desire"
 			},
@@ -1008,7 +1219,7 @@
 			},
 			{
 				"id": 7,
-				"text": "I would like to open the {file_name:} folder",
+				"text": "I would like to open the {file_name:} file",
 				"intent": "open_file_desire"
 			},
 			{
