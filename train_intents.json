@@ -887,7 +887,7 @@
 			},
 			{
 				"id": 1,
-				"text": "I would liek to change the working directory to the {new_directory:} folder",
+				"text": "I would like to change the working directory to the {new_directory:} folder",
 				"intent": "change_directory_desire"
 			},
 			{
