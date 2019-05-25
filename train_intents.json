@@ -1601,6 +1601,1701 @@
 				"id": 14,
 				"text": "remove the {file_name:} file under {parent_directory:}",
 				"intent": "delete_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "Can you copy the {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy the {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy the {origin:} file to {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy the {origin:} file to {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you copy the {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy the {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy the {origin:} file to {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy the {origin:} file to {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you please copy the {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please copy the {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please copy the {origin:} file to {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please copy the {origin:} file to {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please copy {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please copy {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "please copy the {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please copy the {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please copy the {origin:} file to {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please copy the {origin:} file to {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please copy {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please copy {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "copy the {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy the {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy the {origin:} file to {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy the {origin:} file to {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy {origin:} file to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1776,
+				"text": "Can you copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you copy {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you please copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please copy {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please copy {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you copy {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "please copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please copy {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please copy {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "copy {origin:} file to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1945,
+				"text": "Can you duplicate the {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file to {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file to {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you duplicate the {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file to {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file to {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you please duplicate the {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file to {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file to {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "please duplicate the {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file to {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file to {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "duplicate the {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file to {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file to {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate {origin:} file to the {dest:} directory",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate {origin:} file to the {dest:} folder",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate {origin:} file to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1776,
+				"text": "Can you duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you please duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "please duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate {origin:} file",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate {origin:} file to {dest:}",
+				"intent": "copy_file_desire"
+			},
+			{
+				"id": 2287,
+				"text": "Can you move the {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move the {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move the {origin:} file to {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move the {origin:} file to {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you move the {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move the {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move the {origin:} file to {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move the {origin:} file to {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you please move the {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please move the {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please move the {origin:} file to {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please move the {origin:} file to {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please move {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please move {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "please move the {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please move the {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please move the {origin:} file to {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please move the {origin:} file to {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please move {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please move {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "move the {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move the {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move the {origin:} file to {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move the {origin:} file to {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move {origin:} file to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1776,
+				"text": "Can you move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you move {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you please move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please move {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please move {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you move {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "please move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please move {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please move {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "move {origin:} file to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1945,
+				"text": "Can you duplicate the {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file to {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file to {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you duplicate the {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file to {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file to {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you please duplicate the {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file to {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file to {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "please duplicate the {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file to {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file to {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "duplicate the {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file to {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file to {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate {origin:} file to the {dest:} directory",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate {origin:} file to the {dest:} folder",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate {origin:} file to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1776,
+				"text": "Can you duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you duplicate {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you please duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please duplicate {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you duplicate {origin:} to {dest:}",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "please duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please duplicate {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate the {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "duplicate {origin:} file",
+				"intent": "move_file_desire"
+			},
+			{
+				"id": 2960,
+				"text": "Can you rename the {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you rename {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you rename {old_name:} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you rename the {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you rename {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you rename {old_name:} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could please you rename the {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could please you rename {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could please you rename {old_name:} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "please rename the {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please rename {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please rename {old_name:} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "rename the {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "rename {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "rename {old_name:} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1776,
+				"text": "Can you rename the {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you rename {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you rename the {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you rename {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you rename {old_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please rename the {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please rename {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please rename {old_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "rename {old_name :}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "rename {old_name :} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 3085,
+				"text": "Can you change the name of the {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you change the name of {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you change the name of {old_name:} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could you change the name of the {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you change the name of {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you change the name of {old_name:} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "could please you change the name of the {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could please you change the name of {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could please you change the name of {old_name:} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "please change the name of the {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please change the name of {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "please change the name of {old_name:} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1604,
+				"text": "change the name of the {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "change the name of {old_name:} file to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "change the name of {old_name:} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1776,
+				"text": "Can you change the name of the {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "Can you change the name of {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you change the name of the {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you change the name of {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you change the name of {old_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please change the name of the {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please change the name of {old_name:} file",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "could you please change the name of {old_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "change the name of {old_name :}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 1,
+				"text": "change the name of {old_name :} to {new_name:}",
+				"intent": "rename_file_desire"
+			},
+			{
+				"id": 4,
+				"text": "Can you create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 5,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 6,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 7,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 8,
+				"text": "create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 9,
+				"text": "Show me the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 11,
+				"text": "Hey would you please create the {file_name:} file for me",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 13,
+				"text": "create the {file_name:} file under {parent_directory:}",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 14,
+				"text": "Show me the {file_name:} file under {parent_directory:}",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 15,
+				"text": "Can you create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 16,
+				"text": "Could you please create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 17,
+				"text": "Please create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 18,
+				"text": "Can you create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 19,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 20,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 21,
+				"text": "I would like to create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 22,
+				"text": "create the {file_name:} file",
+				"intent": "create_file_desire"
+			},
+			{
+				"id": 25,
+				"text": "Hey would you please create the {file_name:} file for me",
+				"intent": "create_file_desire"
 			}
 		],
 		"others": [
@@ -1651,6 +3346,16 @@
 			},
 			{
 				"id": 1,
+				"text": "ok",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "okay right",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
 				"text": "Let's go for that yes",
 				"intent": "confirm"
 			},
@@ -1681,7 +3386,22 @@
 			},
 			{
 				"id": 1,
-				"text": "I approve",
+				"text": "Yes i totally approve",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "I totally approve",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "Yes i approve totally",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "I approve totally",
 				"intent": "confirm"
 			},
 			{
@@ -1717,11 +3437,231 @@
 			{
 				"id": 1,
 				"text": "Sounds good",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "right",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "agreed",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "correct",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "i'm ok with that",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "i'm okay with that",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "i am ok with that",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "i am okay with that",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "im ok with that",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "im okay with that",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "that is good",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "i want that",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "that is fine",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "that is correct",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "that is what i want",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "you understood me",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "that is right",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "its fine",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "good",
+				"intent": "confirm"
+			},
+			{
+				"id": 1,
+				"text": "i want that",
 				"intent": "deny"
 			},
 			{
 				"id": 1,
+				"text": "i desire that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "i agree",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "i want that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that is fine",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that is correct",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that is what i want",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "you understood me",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that is right",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that is what i mean",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "want that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "im ok with that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "ok its good",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "im good with that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "ok its fine",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "is good",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "it is fine",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "im ok with this",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "im good with this",
+				"intent": "deny"
+			},
+			{
+				"id": 1000000,
+				"text": "that's not right",
+				"intent": "deny"
+			},
+			{
+				"id": 1000000,
+				"text": "that's not good",
+				"intent": "deny"
+			},
+			{
+				"id": 1000000,
+				"text": "incorrect",
+				"intent": "deny"
+			},
+			{
+				"id": 1000000,
+				"text": "don't do that",
+				"intent": "deny"
+			},
+			{
+				"id": 1000000,
 				"text": "Sounds bad to me",
+				"intent": "deny"
+			},
+			{
+				"id": 1000000,
+				"text": "Sounds not good to me",
+				"intent": "deny"
+			},
+			{
+				"id": 1000000,
+				"text": "Sounds wrong",
+				"intent": "deny"
+			},
+			{
+				"id": 1000000,
+				"text": "Sounds wrong to me",
 				"intent": "deny"
 			},
 			{
@@ -1832,6 +3772,296 @@
 			{
 				"id": 1,
 				"text": "Sounds bad to me",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "its not ok",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "it's not ok",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "it is not ok",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "its not alright",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "it's not alright",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "it is not alright",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "its not okay",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "it's not okay",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "it is not okay",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "its not correct",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "it's not correct",
+				"intent": "deny"
+			},
+			{
+				"id": 15,
+				"text": "it is not correct",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "no it's not",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "no its not",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "no it is not",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "i don't want that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "i do not want that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "i don't want it",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "i do not want it",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "didnt meant that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "did not meant that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "didnt meant it",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "did not meant it",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that's not what i want",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that is not what i want",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "thats not what i want",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that's not correct",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that is not correct",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "thats not correct",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that's wrong",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "it's not good",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "it is not good",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "its not good",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "it's not correct",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "it is not correct",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "its not correct",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that is wrong",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "dont want that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "dont desire that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "dont agree on that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "didnt meant that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "dont mean that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "not what i want",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "not correct",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "wrong",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "bad",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "incorrect",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "im not ok with that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "not good",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "its bad",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that is bad",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "that is wrong",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "im not good with that",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "ok its not fine",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "definitely no",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "not good for me",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "its not ok",
+				"intent": "deny"
+			},
+			{
+				"id": 1,
+				"text": "its not correct",
 				"intent": "deny"
 			}
 		]
