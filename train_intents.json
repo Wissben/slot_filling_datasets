@@ -13,7 +13,7 @@
 		"inform",
 		"deny",
 		"confirm",
-		"uknown"
+		"unknown"
 	],
 	"tags_set": [
 		"file_name",
