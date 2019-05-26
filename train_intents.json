@@ -16,6 +16,11 @@
 		"file_name",
 		"parent_directory",
 		"new_directory",
+		"directory_name",
+		"origin",
+		"dest",
+		"old_name",
+		"new_name",
 		"NUL"
 	],
 	"train_dataset": {
