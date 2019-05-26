@@ -3082,12 +3082,12 @@
 			},
 			{
 				"id": 1,
-				"text": "rename {old_name :}",
+				"text": "rename {old_name:}",
 				"intent": "rename_file_desire"
 			},
 			{
 				"id": 1,
-				"text": "rename {old_name :} to {new_name:}",
+				"text": "rename {old_name:} to {new_name:}",
 				"intent": "rename_file_desire"
 			},
 			{
@@ -3207,12 +3207,12 @@
 			},
 			{
 				"id": 1,
-				"text": "change the name of {old_name :}",
+				"text": "change the name of {old_name:}",
 				"intent": "rename_file_desire"
 			},
 			{
 				"id": 1,
-				"text": "change the name of {old_name :} to {new_name:}",
+				"text": "change the name of {old_name:} to {new_name:}",
 				"intent": "rename_file_desire"
 			},
 			{
