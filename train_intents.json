@@ -620,7 +620,7 @@
 			},
 			{
 				"id": 9,
-				"text": "remove me the {file_name:} folder",
+				"text": "remove the {file_name:} folder",
 				"intent": "delete_directory_desire"
 			},
 			{
@@ -645,7 +645,7 @@
 			},
 			{
 				"id": 15,
-				"text": "remove me the {file_name:} subfolder under {parent_directory:}",
+				"text": "remove the {file_name:} subfolder under {parent_directory:}",
 				"intent": "delete_directory_desire"
 			},
 			{
@@ -690,7 +690,7 @@
 			},
 			{
 				"id": 9,
-				"text": "remove me the {file_name:} directory",
+				"text": "remove the {file_name:} directory",
 				"intent": "delete_directory_desire"
 			},
 			{
@@ -1517,7 +1517,7 @@
 			},
 			{
 				"id": 9,
-				"text": "remove me the {file_name:} file",
+				"text": "remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1542,7 +1542,7 @@
 			},
 			{
 				"id": 15,
-				"text": "remove me the file named {file_name:} under {parent_directory:}",
+				"text": "remove the file named {file_name:} under {parent_directory:}",
 				"intent": "delete_file_desire"
 			},
 			{
@@ -1587,7 +1587,7 @@
 			},
 			{
 				"id": 9,
-				"text": "remove me the {file_name:} file",
+				"text": "remove the {file_name:} file",
 				"intent": "delete_file_desire"
 			},
 			{
