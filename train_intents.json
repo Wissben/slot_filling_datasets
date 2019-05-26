@@ -3301,47 +3301,47 @@
 		"unknown": [
 			{
 				"id": 1,
-				"text": "What software can I use to view epub documents?",
+				"text": "What software can I use to view epub documents",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Which PDF Viewer would you recommend?",
+				"text": "Which PDF Viewer would you recommend",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What IDEs are available for Ubuntu?",
+				"text": "What IDEs are available for Ubuntu",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the best Mind Mapping Software?",
+				"text": "What's the best Mind Mapping Software",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Software to read a QR code?",
+				"text": "Software to read a QR code",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "PDF to word conversion software?",
+				"text": "PDF to word conversion software",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there software that can view .dwg files?",
+				"text": "Is there software that can view .dwg files",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What are some good PHP editors?",
+				"text": "What are some good PHP editors",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there a software utility to adjust screen gamma/brightness/contrast?",
+				"text": "Is there a software utility to adjust screen gamma/brightness/contrast",
 				"intent": "unknown"
 			},
 			{
@@ -3351,12 +3351,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Is there LAN topology mapping software available in Ubuntu?",
+				"text": "Is there LAN topology mapping software available in Ubuntu",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there a tool like wifi analyzer for ubuntu?",
+				"text": "Is there a tool like wifi analyzer for ubuntu",
 				"intent": "unknown"
 			},
 			{
@@ -3366,122 +3366,122 @@
 			},
 			{
 				"id": 1,
-				"text": "What's a simple \"colour picker\" app for GNOME?",
+				"text": "What's a simple colour picker app for GNOME",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Any app that tells me to take regular breaks from working?",
+				"text": "Any app that tells me to take regular breaks from working",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What are some good ASCII art generators?",
+				"text": "What are some good ASCII art generators",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What are some good GUI binary viewers/editors?",
+				"text": "What are some good GUI binary viewers/editors",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Which is the best PDF metadata viewer for Ubuntu?",
+				"text": "Which is the best PDF metadata viewer for Ubuntu",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)",
+				"text": "Is there a Linux file manager with a proper drop-down tree view (like finder in OS X)",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Which application do you recommend for watching TV (DVB)?",
+				"text": "Which application do you recommend for watching TV (DVB)",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What Is The Best HDR Software?",
+				"text": "What Is The Best HDR Software",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What do you use to edit Microsoft Word documents (docx)?",
+				"text": "What do you use to edit Microsoft Word documents (docx)",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the best Wireframing tool?",
+				"text": "What's the best Wireframing tool",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there any software that will do face recognition in photos?",
+				"text": "Is there any software that will do face recognition in photos",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Applications to replace iTunes for iPod synchronization?",
+				"text": "Applications to replace iTunes for iPod synchronization",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there an SSH connection manager?",
+				"text": "Is there an SSH connection manager",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "A light alternative to gnome-system-monitor?",
+				"text": "A light alternative to gnome-system-monitor",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Software to create a video slideshow?",
+				"text": "Software to create a video slideshow",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there a project management software for Ubuntu like Microsoft Project?",
+				"text": "Is there a project management software for Ubuntu like Microsoft Project",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there any recovery software available for ext4?",
+				"text": "Is there any recovery software available for ext4",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What blog editor software are available?",
+				"text": "What blog editor software are available",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Can you recommend a good modern GUI download manager (wget wrapper?)",
+				"text": "Can you recommend a good modern GUI download manager (wget wrapper)",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there any program for fuzzy string matching which provides a match score?",
+				"text": "Is there any program for fuzzy string matching which provides a match score",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Are there any hardware diagnostic tools?",
+				"text": "Are there any hardware diagnostic tools",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Recommendation for Regex editor?",
+				"text": "Recommendation for Regex editor",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there a Document scanning and archiving software?",
+				"text": "Is there a Document scanning and archiving software",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Keyboard shortcut to shutdown?",
+				"text": "Keyboard shortcut to shutdown",
 				"intent": "unknown"
 			},
 			{
@@ -3491,12 +3491,12 @@
 			},
 			{
 				"id": 1,
-				"text": "How to troubleshoot slow shutdown?",
+				"text": "How to troubleshoot slow shutdown",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How can I shutdown the computer when a certain process ends?",
+				"text": "How can I shutdown the computer when a certain process ends",
 				"intent": "unknown"
 			},
 			{
@@ -3506,12 +3506,12 @@
 			},
 			{
 				"id": 1,
-				"text": "What does my computer do when I click 'Shut Down'?",
+				"text": "What does my computer do when I click 'Shut Down'",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How do I shut down without the confirmation prompt?",
+				"text": "How do I shut down without the confirmation prompt",
 				"intent": "unknown"
 			},
 			{
@@ -3521,12 +3521,12 @@
 			},
 			{
 				"id": 1,
-				"text": "what is the right way to shutdown ubuntu using the command line?",
+				"text": "what is the right way to shutdown ubuntu using the command line",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How can I make shutdown not require admin password?",
+				"text": "How can I make shutdown not require admin password",
 				"intent": "unknown"
 			},
 			{
@@ -3536,12 +3536,12 @@
 			},
 			{
 				"id": 1,
-				"text": "What is the command to open the shutdown dialog?",
+				"text": "What is the command to open the shutdown dialog",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How to Shut down Ubuntu by using keyboard?",
+				"text": "How to Shut down Ubuntu by using keyboard",
 				"intent": "unknown"
 			},
 			{
@@ -3556,17 +3556,17 @@
 			},
 			{
 				"id": 1,
-				"text": "How do I upgrade to the release version of 16.04 if I am running Beta?",
+				"text": "How do I upgrade to the release version of 16.04 if I am running Beta",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Doubts regarding the 15.04 upgrade (is it inevitable and unavoidable?)",
+				"text": "Doubts regarding the 15.04 upgrade (is it inevitable and unavoidable)",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is any offline upgrade from 13.10 to 14.04 possible?",
+				"text": "Is any offline upgrade from 13.10 to 14.04 possible",
 				"intent": "unknown"
 			},
 			{
@@ -3591,7 +3591,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Is it recommended to upgrade to Lubuntu 15.04?",
+				"text": "Is it recommended to upgrade to Lubuntu 15.04",
 				"intent": "unknown"
 			},
 			{
@@ -3601,7 +3601,7 @@
 			},
 			{
 				"id": 1,
-				"text": "How to partially upgrade Ubuntu 11.10 from Ubuntu 11.04?",
+				"text": "How to partially upgrade Ubuntu 11.10 from Ubuntu 11.04",
 				"intent": "unknown"
 			},
 			{
@@ -3611,17 +3611,17 @@
 			},
 			{
 				"id": 1,
-				"text": "Is it necessary to upgrade to 15.10 from 14.04?",
+				"text": "Is it necessary to upgrade to 15.10 from 14.04",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How do I update Xubuntu 11.10 to Xubuntu 12.04 LTS?",
+				"text": "How do I update Xubuntu 11.10 to Xubuntu 12.04 LTS",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Why did the upgrade from 11.10 to 12.04 ruin my system?",
+				"text": "Why did the upgrade from 11.10 to 12.04 ruin my system",
 				"intent": "unknown"
 			},
 			{
@@ -3636,7 +3636,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Upgrade from 12.04 to 12.10 without losing files?",
+				"text": "Upgrade from 12.04 to 12.10 without losing files",
 				"intent": "unknown"
 			},
 			{
@@ -3646,12 +3646,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Do I need to uninstall 10.04 to upgrade to 12.04?",
+				"text": "Do I need to uninstall 10.04 to upgrade to 12.04",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Do I need to reinstall everything to upgrade from 13.10 to 14.10?",
+				"text": "Do I need to reinstall everything to upgrade from 13.10 to 14.10",
 				"intent": "unknown"
 			},
 			{
@@ -3671,7 +3671,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Ho do I update to 13.04 from the beta?",
+				"text": "Ho do I update to 13.04 from the beta",
 				"intent": "unknown"
 			},
 			{
@@ -3681,12 +3681,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Upgrading from 10.10 to 11.04 how much space is needed?",
+				"text": "Upgrading from 10.10 to 11.04 how much space is needed",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Do I need to backup my 12.04 system to upgrade to 12.04.1?",
+				"text": "Do I need to backup my 12.04 system to upgrade to 12.04.1",
 				"intent": "unknown"
 			},
 			{
@@ -3716,7 +3716,7 @@
 			},
 			{
 				"id": 1,
-				"text": "How can i upgrade to Ubuntu 14.04 final from 14.04 Beta correctly?",
+				"text": "How can i upgrade to Ubuntu 14.04 final from 14.04 Beta correctly",
 				"intent": "unknown"
 			},
 			{
@@ -3731,17 +3731,17 @@
 			},
 			{
 				"id": 1,
-				"text": "How to upgrade Ubuntu 12.04 to 14.04 if I have dual boot with windows 7?",
+				"text": "How to upgrade Ubuntu 12.04 to 14.04 if I have dual boot with windows 7",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Wubi Device /dev/loop0 full. How to get more space?",
+				"text": "Wubi Device /dev/loop0 full. How to get more space",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Using 12.04 can I compile packages with gcc for 10.04?",
+				"text": "Using 12.04 can I compile packages with gcc for 10.04",
 				"intent": "unknown"
 			},
 			{
@@ -3756,17 +3756,17 @@
 			},
 			{
 				"id": 1,
-				"text": "How is rm command different from the delete button?",
+				"text": "How is rm command different from the delete button",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "In Unity how do I see the details of a given launcher?",
+				"text": "In Unity how do I see the details of a given launcher",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How to provide user permission to read and write on /dev/sdax? What is the syntax?",
+				"text": "How to provide user permission to read and write on /dev/sdax What is the syntax",
 				"intent": "unknown"
 			},
 			{
@@ -3776,12 +3776,12 @@
 			},
 			{
 				"id": 1,
-				"text": "How do I show grub when resuming from suspend?",
+				"text": "How do I show grub when resuming from suspend",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How to install a Lexmark z600 series printer?",
+				"text": "How to install a Lexmark z600 series printer",
 				"intent": "unknown"
 			},
 			{
@@ -3791,7 +3791,7 @@
 			},
 			{
 				"id": 1,
-				"text": "How to add a network printer on Ubuntu 15.10?",
+				"text": "How to add a network printer on Ubuntu 15.10",
 				"intent": "unknown"
 			},
 			{
@@ -3816,12 +3816,12 @@
 			},
 			{
 				"id": 1,
-				"text": "How do I install the HP F4280 printer?",
+				"text": "How do I install the HP F4280 printer",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How to Install Brother DCP-8110DN Laser Printer on Ubuntu?",
+				"text": "How to Install Brother DCP-8110DN Laser Printer on Ubuntu",
 				"intent": "unknown"
 			},
 			{
@@ -3831,7 +3831,7 @@
 			},
 			{
 				"id": 1,
-				"text": "How Do I Install Canon MF8000C Printer in Ubuntu 15.10?",
+				"text": "How Do I Install Canon MF8000C Printer in Ubuntu 15.10",
 				"intent": "unknown"
 			},
 			{
@@ -3846,12 +3846,12 @@
 			},
 			{
 				"id": 1,
-				"text": "How to record my screen?",
+				"text": "How to record my screen",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How can I highlight or annotate PDFs?",
+				"text": "How can I highlight or annotate PDFs",
 				"intent": "unknown"
 			},
 			{
@@ -3866,7 +3866,7 @@
 			},
 			{
 				"id": 1,
-				"text": "How to upgrade Ubuntu 14.04.1 to 14.04.2?",
+				"text": "How to upgrade Ubuntu 14.04.1 to 14.04.2",
 				"intent": "unknown"
 			},
 			{
@@ -3876,7 +3876,7 @@
 			},
 			{
 				"id": 1,
-				"text": "how to upgrade from ubuntu 15.04 to 15.10?",
+				"text": "how to upgrade from ubuntu 15.04 to 15.10",
 				"intent": "unknown"
 			},
 			{
@@ -3886,7 +3886,7 @@
 			},
 			{
 				"id": 1,
-				"text": "How to Upgrade from 11.10 to 12.04 when you've got a problem?",
+				"text": "How to Upgrade from 11.10 to 12.04 when you've got a problem",
 				"intent": "unknown"
 			},
 			{
@@ -3896,12 +3896,12 @@
 			},
 			{
 				"id": 1,
-				"text": "How to upgrade Ubuntu 9.10 to 12.10 via terminal?",
+				"text": "How to upgrade Ubuntu 9.10 to 12.10 via terminal",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How to upgrade from Ubuntu 10.10 to 11.04?",
+				"text": "How to upgrade from Ubuntu 10.10 to 11.04",
 				"intent": "unknown"
 			},
 			{
@@ -3911,17 +3911,17 @@
 			},
 			{
 				"id": 1,
-				"text": "How to setup HP printer/scanner on ubuntu?",
+				"text": "How to setup HP printer/scanner on ubuntu",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How do I setup my HP C4140 printer wirelessly?",
+				"text": "How do I setup my HP C4140 printer wirelessly",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10?",
+				"text": "How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10",
 				"intent": "unknown"
 			},
 			{
@@ -3936,27 +3936,27 @@
 			},
 			{
 				"id": 1,
-				"text": "How to install a Brother MFC-5890CN network printer?",
+				"text": "How to install a Brother MFC-5890CN network printer",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How do I install drivers for a Konica Minolta 200?",
+				"text": "How do I install drivers for a Konica Minolta 200",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?",
+				"text": "How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the method for LBP2900 but it didnt work",
+				"text": "How To Install Canon LBP2900B printer in 14.04 LTS  I tried the method for LBP2900 but it didnt work",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Any command line calculator for Ubuntu?",
+				"text": "Any command line calculator for Ubuntu",
 				"intent": "unknown"
 			},
 			{
@@ -3971,7 +3971,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Torrent client for the command-line?",
+				"text": "Torrent client for the command-line",
 				"intent": "unknown"
 			},
 			{
@@ -3981,67 +3981,67 @@
 			},
 			{
 				"id": 1,
-				"text": "What developer text editors are available for Ubuntu?",
+				"text": "What developer text editors are available for Ubuntu",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What screenshot tools are available?",
+				"text": "What screenshot tools are available",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Which programs can I use to edit PDF files?",
+				"text": "Which programs can I use to edit PDF files",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there a lightweight tool to crop images quickly?",
+				"text": "Is there a lightweight tool to crop images quickly",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What IRC clients are available?",
+				"text": "What IRC clients are available",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What new games are available for Ubuntu in 2011?",
+				"text": "What new games are available for Ubuntu in 2011",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "UPNP / DLNA (client) player recommendations?",
+				"text": "UPNP / DLNA (client) player recommendations",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What scientific plotting software is available?",
+				"text": "What scientific plotting software is available",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Can you recommend a password generator?",
+				"text": "Can you recommend a password generator",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What tools do you use to monitor a web server?",
+				"text": "What tools do you use to monitor a web server",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What is a good MongoDB GUI client?",
+				"text": "What is a good MongoDB GUI client",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Password Management Applications?",
+				"text": "Password Management Applications",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there an application for reading mobi files?",
+				"text": "Is there an application for reading mobi files",
 				"intent": "unknown"
 			},
 			{
@@ -4051,42 +4051,42 @@
 			},
 			{
 				"id": 1,
-				"text": "How to shutdown computer when users are logged on?",
+				"text": "How to shutdown computer when users are logged on",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What is the proper terminal-way to shutdown?",
+				"text": "What is the proper terminal-way to shutdown",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How can I automatically shutdown the system after a specific time?",
+				"text": "How can I automatically shutdown the system after a specific time",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Hotkey to shut down from login screen?",
+				"text": "Hotkey to shut down from login screen",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How to shutdown the computer after Xsession ends?",
+				"text": "How to shutdown the computer after Xsession ends",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How can one shutdown a PC using the keyboard?",
+				"text": "How can one shutdown a PC using the keyboard",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How can I enable shutdown verbosity?",
+				"text": "How can I enable shutdown verbosity",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Are there any Keyboard Shortcuts to Shutdown?",
+				"text": "Are there any Keyboard Shortcuts to Shutdown",
 				"intent": "unknown"
 			},
 			{
@@ -4101,12 +4101,12 @@
 			},
 			{
 				"id": 1,
-				"text": "How do I fix a shutdown problem?",
+				"text": "How do I fix a shutdown problem",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What graphical utility can I use for Ubuntu auto shutdown?",
+				"text": "What graphical utility can I use for Ubuntu auto shutdown",
 				"intent": "unknown"
 			},
 			{
@@ -4116,12 +4116,12 @@
 			},
 			{
 				"id": 1,
-				"text": "when is the next train in muncher freiheit?",
+				"text": "when is the next train in muncher freiheit",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next u-bahn leaves from garching forschungszentrum?",
+				"text": "when does the next u-bahn leaves from garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
@@ -4141,7 +4141,7 @@
 			},
 			{
 				"id": 1,
-				"text": "can you find a connection from garching to hauptbahnhof?",
+				"text": "can you find a connection from garching to hauptbahnhof",
 				"intent": "unknown"
 			},
 			{
@@ -4161,17 +4161,17 @@
 			},
 			{
 				"id": 1,
-				"text": "how to get from bonner platz to freimann?",
+				"text": "how to get from bonner platz to freimann",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when is the next s-bahn leaving at garching?",
+				"text": "when is the next s-bahn leaving at garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how do i get from oez to hbf?",
+				"text": "how do i get from oez to hbf",
 				"intent": "unknown"
 			},
 			{
@@ -4191,42 +4191,42 @@
 			},
 			{
 				"id": 1,
-				"text": "how can i get from theresienstra 00dfe to munich east?",
+				"text": "how can i get from theresienstra 00dfe to munich east",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next bus starts from garching?",
+				"text": "when does the next bus starts from garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "from quiddestra 00dfe to garching?",
+				"text": "from quiddestra 00dfe to garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "can you find a connection from kurt-eisner-stra 00dfe to garching forschungszentrum?",
+				"text": "can you find a connection from kurt-eisner-stra 00dfe to garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "can you find a connection from quiddestra 00dfe to garching forschungszentrum?",
+				"text": "can you find a connection from quiddestra 00dfe to garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next train leaves at garching?",
+				"text": "when does the next train leaves at garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "from hauptbahnhof to garching?",
+				"text": "from hauptbahnhof to garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get to glockenbachviertel from garching forschungszentrum?",
+				"text": "how can i get to glockenbachviertel from garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
@@ -4236,7 +4236,7 @@
 			},
 			{
 				"id": 1,
-				"text": "how can i get to glockenbachviertel from garching forschungszentrum?",
+				"text": "how can i get to glockenbachviertel from garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
@@ -4246,37 +4246,37 @@
 			},
 			{
 				"id": 1,
-				"text": "how can i get from moosach to quiddestra 00dfe?",
+				"text": "how can i get from moosach to quiddestra 00dfe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from moosach to poccistra 00dfe?",
+				"text": "how can i get from moosach to poccistra 00dfe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from kurt-eisner-stra 00dfe to garching forschungszentrum?",
+				"text": "how can i get from kurt-eisner-stra 00dfe to garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from moosach to quiddestra 00dfe?",
+				"text": "how can i get from moosach to quiddestra 00dfe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from moosach to odeonsplatz?",
+				"text": "how can i get from moosach to odeonsplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next bus starts at garching?",
+				"text": "when does the next bus starts at garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "what's the shortest way from quiddestra 00dfe to odeonsplatz?",
+				"text": "what's the shortest way from quiddestra 00dfe to odeonsplatz",
 				"intent": "unknown"
 			},
 			{
@@ -4291,12 +4291,12 @@
 			},
 			{
 				"id": 1,
-				"text": "when is the next train in munchner freiheit?",
+				"text": "when is the next train in munchner freiheit",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how i can get from marienplatz to garching?",
+				"text": "how i can get from marienplatz to garching",
 				"intent": "unknown"
 			},
 			{
@@ -4311,7 +4311,7 @@
 			},
 			{
 				"id": 1,
-				"text": "how i can get from marienplatz to garching?",
+				"text": "how i can get from marienplatz to garching",
 				"intent": "unknown"
 			},
 			{
@@ -4401,12 +4401,12 @@
 			},
 			{
 				"id": 1,
-				"text": "connection from garching to hauptbahnhof?",
+				"text": "connection from garching to hauptbahnhof",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next bus departs from garching?",
+				"text": "when does the next bus departs from garching",
 				"intent": "unknown"
 			},
 			{
@@ -4416,12 +4416,12 @@
 			},
 			{
 				"id": 1,
-				"text": "when does the next u-bahn departs at garching forschungszentrum?",
+				"text": "when does the next u-bahn departs at garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next u-bahn departs at garching?",
+				"text": "when does the next u-bahn departs at garching",
 				"intent": "unknown"
 			},
 			{
@@ -4431,12 +4431,12 @@
 			},
 			{
 				"id": 1,
-				"text": "when is the next train in garching?",
+				"text": "when is the next train in garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how to get from m 00fcnchner freiheit to garching ?",
+				"text": "how to get from m 00fcnchner freiheit to garching ",
 				"intent": "unknown"
 			},
 			{
@@ -4446,7 +4446,7 @@
 			},
 			{
 				"id": 1,
-				"text": "how can i get from hauptbahnhof to odeonsplatz?",
+				"text": "how can i get from hauptbahnhof to odeonsplatz",
 				"intent": "unknown"
 			},
 			{
@@ -4471,7 +4471,7 @@
 			},
 			{
 				"id": 1,
-				"text": "how can i get from feldmoching to garching forschungszentrum?",
+				"text": "how can i get from feldmoching to garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
@@ -4506,7 +4506,7 @@
 			},
 			{
 				"id": 1,
-				"text": "how do i get from spitzingplatz to poccistra 00dfe?",
+				"text": "how do i get from spitzingplatz to poccistra 00dfe",
 				"intent": "unknown"
 			},
 			{
@@ -4516,7 +4516,7 @@
 			},
 			{
 				"id": 1,
-				"text": "how can i get from klinkum to marienplatz?",
+				"text": "how can i get from klinkum to marienplatz",
 				"intent": "unknown"
 			},
 			{
@@ -4536,7 +4536,7 @@
 			},
 			{
 				"id": 1,
-				"text": "when does the next u-bahn depart at garching?",
+				"text": "when does the next u-bahn depart at garching",
 				"intent": "unknown"
 			},
 			{
@@ -4546,7 +4546,7 @@
 			},
 			{
 				"id": 1,
-				"text": "when is the next train in alte heide?",
+				"text": "when is the next train in alte heide",
 				"intent": "unknown"
 			},
 			{
@@ -4556,7 +4556,7 @@
 			},
 			{
 				"id": 1,
-				"text": "hello munich city bot! how do i get from m 00fcnchner freiheit to scheidplatz?",
+				"text": "hello munich city bot how do i get from m 00fcnchner freiheit to scheidplatz",
 				"intent": "unknown"
 			},
 			{
@@ -4581,7 +4581,7 @@
 			},
 			{
 				"id": 1,
-				"text": "how i can get from munchner freiheit to nordfriedhof?",
+				"text": "how i can get from munchner freiheit to nordfriedhof",
 				"intent": "unknown"
 			},
 			{
@@ -4641,47 +4641,47 @@
 			},
 			{
 				"id": 1,
-				"text": "what's the shortest connection between quiddestra 00dfe and odeonsplatz?",
+				"text": "what's the shortest connection between quiddestra 00dfe and odeonsplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "what is the cheapest connection between quiddestra 00dfe and hauptbahnhof?",
+				"text": "what is the cheapest connection between quiddestra 00dfe and hauptbahnhof",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "what's the shortest way between hauptbahnhof and odeonsplatz?",
+				"text": "what's the shortest way between hauptbahnhof and odeonsplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from garching to m 00fcnchner freiheit as fast as possible?",
+				"text": "how can i get from garching to m 00fcnchner freiheit as fast as possible",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "what's the cheapest way from neuperlach s 00fcd to lehel?",
+				"text": "what's the cheapest way from neuperlach s 00fcd to lehel",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from neuperlach zentrum to karlsplatz as fast as possible?",
+				"text": "how can i get from neuperlach zentrum to karlsplatz as fast as possible",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "could you give me the fastest connection between bruderm 00fchlstra 00dfe and alte heide?",
+				"text": "could you give me the fastest connection between bruderm 00fchlstra 00dfe and alte heide",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "is there a train from neuperlach zentrum to garching at 3 pm?",
+				"text": "is there a train from neuperlach zentrum to garching at 3 pm",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "can you find a connection from olympiazentrum to lehel at 2 pm?",
+				"text": "can you find a connection from olympiazentrum to lehel at 2 pm",
 				"intent": "unknown"
 			},
 			{
@@ -4691,7 +4691,7 @@
 			},
 			{
 				"id": 1,
-				"text": "in need to be at hauptbahnhof at 1 pm, can you search a connection from garching forschungszentrum?",
+				"text": "in need to be at hauptbahnhof at 1 pm, can you search a connection from garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
@@ -4701,112 +4701,112 @@
 			},
 			{
 				"id": 1,
-				"text": "can i take a bus from quiddestra 00dfe to hauptbahnhof?",
+				"text": "can i take a bus from quiddestra 00dfe to hauptbahnhof",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "can you find the shortest way from moosfeld to milbertshofen?",
+				"text": "can you find the shortest way from moosfeld to milbertshofen",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get to neuperlach s 00fcd from garching forschungszentrum?",
+				"text": "how can i get to neuperlach s 00fcd from garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "can you find a bus from quiddestra 00dfe to lehel?",
+				"text": "can you find a bus from quiddestra 00dfe to lehel",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "is there a tram from karlsplatz to lehel?",
+				"text": "is there a tram from karlsplatz to lehel",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "is there a bus from garching to moosach at around 5?",
+				"text": "is there a bus from garching to moosach at around 5",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "is there a bus from odeonsplatz to hauptbahnhof at 3 pm?",
+				"text": "is there a bus from odeonsplatz to hauptbahnhof at 3 pm",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "can you tell me the cheapest way from garching forschungszentrum to quiddestra 00dfe?",
+				"text": "can you tell me the cheapest way from garching forschungszentrum to quiddestra 00dfe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get to quiddestra 00dfe?",
+				"text": "how can i get to quiddestra 00dfe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next bus leaves from hauptbahnhof?",
+				"text": "when does the next bus leaves from hauptbahnhof",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from garching to hauptbahnhof?",
+				"text": "how can i get from garching to hauptbahnhof",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from kurt-eisner-stra 00dfe to garching?",
+				"text": "how can i get from kurt-eisner-stra 00dfe to garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when the next train in garching,forschungszentrum is leaving?",
+				"text": "when the next train in garching,forschungszentrum is leaving",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "what is the next connection from garching forschungszentrum to odeonsplatz?",
+				"text": "what is the next connection from garching forschungszentrum to odeonsplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from mossach to garching forschungszentrum?",
+				"text": "how can i get from mossach to garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from garching forschungszentrum to odeonsplatz?",
+				"text": "how can i get from garching forschungszentrum to odeonsplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from garching, forschungszentrum to odeonsplatz?",
+				"text": "how can i get from garching, forschungszentrum to odeonsplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from garching forschungszentrum to kurt-eisner-stra 00dfe?",
+				"text": "how can i get from garching forschungszentrum to kurt-eisner-stra 00dfe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get to boltzmannstra 00dfe from quiddestra 00dfe?",
+				"text": "how can i get to boltzmannstra 00dfe from quiddestra 00dfe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next train departs from quiddestra 00dfe?",
+				"text": "when does the next train departs from quiddestra 00dfe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when the next train in garching forschungszentrum is leaving?",
+				"text": "when the next train in garching forschungszentrum is leaving",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when is the next u6 leaving from garching?",
+				"text": "when is the next u6 leaving from garching",
 				"intent": "unknown"
 			},
 			{
@@ -4816,17 +4816,17 @@
 			},
 			{
 				"id": 1,
-				"text": "when is the next u6?",
+				"text": "when is the next u6",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when is the next subway leaving from garching?",
+				"text": "when is the next subway leaving from garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when the next train in garching is leaving?",
+				"text": "when the next train in garching is leaving",
 				"intent": "unknown"
 			},
 			{
@@ -4836,12 +4836,12 @@
 			},
 			{
 				"id": 1,
-				"text": "when does the next train leaves from odeonsplatz?",
+				"text": "when does the next train leaves from odeonsplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next train leaves from quiddestra 00dfe?",
+				"text": "when does the next train leaves from quiddestra 00dfe",
 				"intent": "unknown"
 			},
 			{
@@ -4851,42 +4851,42 @@
 			},
 			{
 				"id": 1,
-				"text": "when does the next bus leaves at garching forschungszentrum?",
+				"text": "when does the next bus leaves at garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next train leaves?",
+				"text": "when does the next train leaves",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next bus leave in garching?",
+				"text": "when does the next bus leave in garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next s-bahn leaves from hauptbahnhof?",
+				"text": "when does the next s-bahn leaves from hauptbahnhof",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next subway departes from odeonsplatz?",
+				"text": "when does the next subway departes from odeonsplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "show me the next bus from garching!",
+				"text": "show me the next bus from garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next tram starts from hauptbahnhof?",
+				"text": "when does the next tram starts from hauptbahnhof",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when will the next u-bahn depart from garching forschungszentrum?",
+				"text": "when will the next u-bahn depart from garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
@@ -4896,47 +4896,47 @@
 			},
 			{
 				"id": 1,
-				"text": "when does the next train starts at sendlinger tor?",
+				"text": "when does the next train starts at sendlinger tor",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "hey bot, when does the next bus starts at garching?",
+				"text": "hey bot, when does the next bus starts at garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next bus leaves at garching?",
+				"text": "when does the next bus leaves at garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when is the bus from quiddestra 00dfe?",
+				"text": "when is the bus from quiddestra 00dfe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when can i get a bus at mariahilfplatz?",
+				"text": "when can i get a bus at mariahilfplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next bus leaves at romanplatz?",
+				"text": "when does the next bus leaves at romanplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the bus to r 00f6blingweg starts?",
+				"text": "when does the bus to r 00f6blingweg starts",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "next bus from quiddestra 00dfe?",
+				"text": "next bus from quiddestra 00dfe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when is the next bus leaving from garching?",
+				"text": "when is the next bus leaving from garching",
 				"intent": "unknown"
 			},
 			{
@@ -4946,37 +4946,37 @@
 			},
 			{
 				"id": 1,
-				"text": "when is the train leaving in garching?",
+				"text": "when is the train leaving in garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from garching to odeonsplatz?",
+				"text": "how can i get from garching to odeonsplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when is adrians next subway leaving at garching forschungszentrum?",
+				"text": "when is adrians next subway leaving at garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from olympiazentrum to hauptbahnhof?",
+				"text": "how can i get from olympiazentrum to hauptbahnhof",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from quiddestra 00dfe to boltzmannstra 00dfe?",
+				"text": "how can i get from quiddestra 00dfe to boltzmannstra 00dfe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from moosach to garching forschungszentrum?",
+				"text": "how can i get from moosach to garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "can you give me a connection from garching to odeonsplatz?",
+				"text": "can you give me a connection from garching to odeonsplatz",
 				"intent": "unknown"
 			},
 			{
@@ -5006,32 +5006,32 @@
 			},
 			{
 				"id": 1,
-				"text": "i want to travel from garching to odeonsplatz?",
+				"text": "i want to travel from garching to odeonsplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get to sendlinger tor?",
+				"text": "how can i get to sendlinger tor",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how do i get to untere strauss 00e4cker?",
+				"text": "how do i get to untere strauss 00e4cker",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from garching to garching?",
+				"text": "how can i get from garching to garching",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from garching to sendlinger tor?",
+				"text": "how can i get from garching to sendlinger tor",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how can i get from garchingto garching?",
+				"text": "how can i get from garchingto garching",
 				"intent": "unknown"
 			},
 			{
@@ -5046,7 +5046,7 @@
 			},
 			{
 				"id": 1,
-				"text": "how can i get to milbertshofen from garching?",
+				"text": "how can i get to milbertshofen from garching",
 				"intent": "unknown"
 			},
 			{
@@ -5056,12 +5056,12 @@
 			},
 			{
 				"id": 1,
-				"text": "how can i get from garching to milbertshofen?",
+				"text": "how can i get from garching to milbertshofen",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when does the next rocket leaves from garching forschungszentrum?",
+				"text": "when does the next rocket leaves from garching forschungszentrum",
 				"intent": "unknown"
 			},
 			{
@@ -5096,7 +5096,7 @@
 			},
 			{
 				"id": 1,
-				"text": "how to get from garching to perlach?",
+				"text": "how to get from garching to perlach",
 				"intent": "unknown"
 			},
 			{
@@ -5106,22 +5106,22 @@
 			},
 			{
 				"id": 1,
-				"text": "when is the next train in nordfriedhof?",
+				"text": "when is the next train in nordfriedhof",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "when is the next train in m 00fcnchner freiheit?",
+				"text": "when is the next train in m 00fcnchner freiheit",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "connection from hauptbahnhof to odeonsplatz?",
+				"text": "connection from hauptbahnhof to odeonsplatz",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "how do i get from olympia einkaufszentrum to hauptbahnhof?",
+				"text": "how do i get from olympia einkaufszentrum to hauptbahnhof",
 				"intent": "unknown"
 			},
 			{
@@ -5221,37 +5221,37 @@
 			},
 			{
 				"id": 1,
-				"text": "What's the best hotel between Soho Grand and Paramount Hotel?",
+				"text": "What's the best hotel between Soho Grand and Paramount Hotel",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the cheapest between the two restaurants the closest to my hotel?",
+				"text": "What's the cheapest between the two restaurants the closest to my hotel",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the closest between Jo's and Lori's place?",
+				"text": "What's the closest between Jo's and Lori's place",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is my Airbnb closer than John's hotel?",
+				"text": "Is my Airbnb closer than John's hotel",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is The View more expensive than Masa?",
+				"text": "Is The View more expensive than Masa",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the best between Le Bain and Marquee?",
+				"text": "What's the best between Le Bain and Marquee",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is Vertigo Sky Lounge more expensive than the bar I usually go to in New York?",
+				"text": "Is Vertigo Sky Lounge more expensive than the bar I usually go to in New York",
 				"intent": "unknown"
 			},
 			{
@@ -5261,57 +5261,57 @@
 			},
 			{
 				"id": 1,
-				"text": "Is my favorite bar better than the Donut Pub?",
+				"text": "Is my favorite bar better than the Donut Pub",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is Waldorf Astoria more luxurious than the Four Seasons?",
+				"text": "Is Waldorf Astoria more luxurious than the Four Seasons",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the cheapest place between my favorite bar and Employees Only?",
+				"text": "What's the cheapest place between my favorite bar and Employees Only",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is my hotel in NYC for this week better than the hotel I stayed in when I was in Chicago?",
+				"text": "Is my hotel in NYC for this week better than the hotel I stayed in when I was in Chicago",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is Soho Grand better than Paramount?",
+				"text": "Is Soho Grand better than Paramount",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the cheapest place between Galli and The Smile?",
+				"text": "What's the cheapest place between Galli and The Smile",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is Three Dots and a Dash cheaper than Lost Lake?",
+				"text": "Is Three Dots and a Dash cheaper than Lost Lake",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What is the closest theatre between Belasco Theatre and Majestic Theatre?",
+				"text": "What is the closest theatre between Belasco Theatre and Majestic Theatre",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What is the most expensive restaurant between Per Se and Rao's?",
+				"text": "What is the most expensive restaurant between Per Se and Rao's",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Which restaurant is the cheapest, Shake Shack or Five Guys ?",
+				"text": "Which restaurant is the cheapest, Shake Shack or Five Guys ",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What is the cheapest restaurant between Balthazar and Lombardi's?",
+				"text": "What is the cheapest restaurant between Balthazar and Lombardi's",
 				"intent": "unknown"
 			},
 			{
@@ -5321,12 +5321,12 @@
 			},
 			{
 				"id": 1,
-				"text": "Does the View has reserved parking?",
+				"text": "Does the View has reserved parking",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How much is it to go to the top of Empire State Building?",
+				"text": "How much is it to go to the top of Empire State Building",
 				"intent": "unknown"
 			},
 			{
@@ -5336,92 +5336,92 @@
 			},
 			{
 				"id": 1,
-				"text": "When is Rao's the most crowded?",
+				"text": "When is Rao's the most crowded",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the phone number of the Dead Rabbit?",
+				"text": "What's the phone number of the Dead Rabbit",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there a parking at my hotel?",
+				"text": "Is there a parking at my hotel",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How crowded is Per Se right now?",
+				"text": "How crowded is Per Se right now",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What time does Pouring Ribbons open tonight?",
+				"text": "What time does Pouring Ribbons open tonight",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How crowded is the bar near my place?",
+				"text": "How crowded is the bar near my place",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there wifi at the coffee place where I'm meeting with John?",
+				"text": "Is there wifi at the coffee place where I'm meeting with John",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the address of the place where I was yesterday night?",
+				"text": "What's the address of the place where I was yesterday night",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is the Swan Oyster Depot cash-only?",
+				"text": "Is the Swan Oyster Depot cash-only",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there a wifi at The Smile?",
+				"text": "Is there a wifi at The Smile",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Can I pay by credit card at Boom Boom Room?",
+				"text": "Can I pay by credit card at Boom Boom Room",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the phone number of my hotel in Chicago next month?",
+				"text": "What's the phone number of my hotel in Chicago next month",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is Pates Et Traditions cash only?",
+				"text": "Is Pates Et Traditions cash only",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Are there good tips to know when going to the Modern?",
+				"text": "Are there good tips to know when going to the Modern",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the price range for a dinner at Galli?",
+				"text": "What's the price range for a dinner at Galli",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How far is Frying Pan from the Highline Ballroom?",
+				"text": "How far is Frying Pan from the Highline Ballroom",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Who is playing tonight at the Madison Square Garden?",
+				"text": "Who is playing tonight at the Madison Square Garden",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's planned at Slim's tonight?",
+				"text": "What's planned at Slim's tonight",
 				"intent": "unknown"
 			},
 			{
@@ -5431,7 +5431,7 @@
 			},
 			{
 				"id": 1,
-				"text": "What time does Employees Only close?",
+				"text": "What time does Employees Only close",
 				"intent": "unknown"
 			},
 			{
@@ -5441,12 +5441,12 @@
 			},
 			{
 				"id": 1,
-				"text": "What's happening this week at Smalls Jazz Club?",
+				"text": "What's happening this week at Smalls Jazz Club",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there a children's menu at The Standard Grill?",
+				"text": "Is there a children's menu at The Standard Grill",
 				"intent": "unknown"
 			},
 			{
@@ -5461,47 +5461,47 @@
 			},
 			{
 				"id": 1,
-				"text": "Where's Irving Plaza located?",
+				"text": "Where's Irving Plaza located",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How expensive is the best French restaurant near work?",
+				"text": "How expensive is the best French restaurant near work",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How far is the NoMad Bar?",
+				"text": "How far is the NoMad Bar",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How much does it cost to go to Disneyland?",
+				"text": "How much does it cost to go to Disneyland",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How far am I from the Guggenheim museum?",
+				"text": "How far am I from the Guggenheim museum",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there wifi at my Airbnb in London next week end?",
+				"text": "Is there wifi at my Airbnb in London next week end",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Are there activities for children at Hard Rock Cafe?",
+				"text": "Are there activities for children at Hard Rock Cafe",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Does the Butcher's Daughter serve vegetarian food only?",
+				"text": "Does the Butcher's Daughter serve vegetarian food only",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Can I park at Gershwin Theatre?",
+				"text": "Can I park at Gershwin Theatre",
 				"intent": "unknown"
 			},
 			{
@@ -5516,27 +5516,27 @@
 			},
 			{
 				"id": 1,
-				"text": "What are the opening hours of Please Don't Tell?",
+				"text": "What are the opening hours of Please Don't Tell",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's Lori's home address?",
+				"text": "What's Lori's home address",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Where can I get tickets for a concert at Blue Note?",
+				"text": "Where can I get tickets for a concert at Blue Note",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Are there some tips to know when going to Battery Park?",
+				"text": "Are there some tips to know when going to Battery Park",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How much is a dinner at La Chine?",
+				"text": "How much is a dinner at La Chine",
 				"intent": "unknown"
 			},
 			{
@@ -5546,22 +5546,22 @@
 			},
 			{
 				"id": 1,
-				"text": "Does Cafe Gitane have wifi?",
+				"text": "Does Cafe Gitane have wifi",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's today's menu at The Water Club?",
+				"text": "What's today's menu at The Water Club",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "When is it the quietest at Good Luck bar?",
+				"text": "When is it the quietest at Good Luck bar",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there valet parking at Kang Ho Dong Baekjeong?",
+				"text": "Is there valet parking at Kang Ho Dong Baekjeong",
 				"intent": "unknown"
 			},
 			{
@@ -5586,12 +5586,12 @@
 			},
 			{
 				"id": 1,
-				"text": "I want to eat some fried chicken. Any suggestions?",
+				"text": "I want to eat some fried chicken. Any suggestions",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the closest pizza restaurant around here?",
+				"text": "What's the closest pizza restaurant around here",
 				"intent": "unknown"
 			},
 			{
@@ -5601,7 +5601,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Where can I eat the best burger in Soho?",
+				"text": "Where can I eat the best burger in Soho",
 				"intent": "unknown"
 			},
 			{
@@ -5616,7 +5616,7 @@
 			},
 			{
 				"id": 1,
-				"text": "What's the best irish pub in hell's kitchen?",
+				"text": "What's the best irish pub in hell's kitchen",
 				"intent": "unknown"
 			},
 			{
@@ -5626,7 +5626,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Is there a place similar to Per Se in Williamsburg?",
+				"text": "Is there a place similar to Per Se in Williamsburg",
 				"intent": "unknown"
 			},
 			{
@@ -5671,12 +5671,12 @@
 			},
 			{
 				"id": 1,
-				"text": "What are the fanciest clubs in New York?",
+				"text": "What are the fanciest clubs in New York",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Where is the nearest Starbucks?",
+				"text": "Where is the nearest Starbucks",
 				"intent": "unknown"
 			},
 			{
@@ -5866,7 +5866,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Is there a table for boozy brunch at around 11 nearby?",
+				"text": "Is there a table for boozy brunch at around 11 nearby",
 				"intent": "unknown"
 			},
 			{
@@ -5901,7 +5901,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Table for a group of 12 near west village tomorrow? go!",
+				"text": "Table for a group of 12 near west village tomorrow go",
 				"intent": "unknown"
 			},
 			{
@@ -5931,7 +5931,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you make a reservation at a lebanese restaurant nearby, for lunch, party of 5?",
+				"text": "Can you make a reservation at a lebanese restaurant nearby, for lunch, party of 5",
 				"intent": "unknown"
 			},
 			{
@@ -6021,7 +6021,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Can I have a table at the Russian Tea Room for 4pm?",
+				"text": "Can I have a table at the Russian Tea Room for 4pm",
 				"intent": "unknown"
 			},
 			{
@@ -6126,7 +6126,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Can you find me a ride at this hour?",
+				"text": "Can you find me a ride at this hour",
 				"intent": "unknown"
 			},
 			{
@@ -6166,7 +6166,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Is there any Uber around?",
+				"text": "Is there any Uber around",
 				"intent": "unknown"
 			},
 			{
@@ -6186,7 +6186,7 @@
 			},
 			{
 				"id": 1,
-				"text": "How do I go to Montauk avoiding tolls?",
+				"text": "How do I go to Montauk avoiding tolls",
 				"intent": "unknown"
 			},
 			{
@@ -6266,7 +6266,7 @@
 			},
 			{
 				"id": 1,
-				"text": "How do I go back home?",
+				"text": "How do I go back home",
 				"intent": "unknown"
 			},
 			{
@@ -6471,37 +6471,37 @@
 			},
 			{
 				"id": 1,
-				"text": "Should I expect traffic from here to Kennedy international airport?",
+				"text": "Should I expect traffic from here to Kennedy international airport",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Any traffic problems to go to my dinner?",
+				"text": "Any traffic problems to go to my dinner",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Any accidents from my Airbnb to Golden Gate Bridge?",
+				"text": "Any accidents from my Airbnb to Golden Gate Bridge",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there traffic from work to gym?",
+				"text": "Is there traffic from work to gym",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there traffic on my way to the gym?",
+				"text": "Is there traffic on my way to the gym",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How's traffic to go to my hotel?",
+				"text": "How's traffic to go to my hotel",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How's the road on the 11th avenue?",
+				"text": "How's the road on the 11th avenue",
 				"intent": "unknown"
 			},
 			{
@@ -6511,62 +6511,62 @@
 			},
 			{
 				"id": 1,
-				"text": "Is there traffic jam on 6th avenue?",
+				"text": "Is there traffic jam on 6th avenue",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Any accidents to expect to go to my cousin's place?",
+				"text": "Any accidents to expect to go to my cousin's place",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How's the traffic from here to Jo's place?",
+				"text": "How's the traffic from here to Jo's place",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there traffic on 8th avenue and west 14th street?",
+				"text": "Is there traffic on 8th avenue and west 14th street",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Shoud I expect traffic between broadway and prince street?",
+				"text": "Shoud I expect traffic between broadway and prince street",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there traffic on the US 50 portion I'm going to take to go to my client meeting?",
+				"text": "Is there traffic on the US 50 portion I'm going to take to go to my client meeting",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Are there any accidents from home to work?",
+				"text": "Are there any accidents from home to work",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Should I expect any traffic to go meet my friends tonight?",
+				"text": "Should I expect any traffic to go meet my friends tonight",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there traffic jam from here to Brooklyn bridge?",
+				"text": "Is there traffic jam from here to Brooklyn bridge",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How's the traffic from here to Central Park?",
+				"text": "How's the traffic from here to Central Park",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is the road to work congested?",
+				"text": "Is the road to work congested",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is there any traffic on US 20?",
+				"text": "Is there any traffic on US 20",
 				"intent": "unknown"
 			},
 			{
@@ -6576,37 +6576,37 @@
 			},
 			{
 				"id": 1,
-				"text": "Will it be cloudy at my facebook event?",
+				"text": "Will it be cloudy at my facebook event",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the weather like at my parents'?",
+				"text": "What's the weather like at my parents'",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is the weather good for a walk today?",
+				"text": "Is the weather good for a walk today",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is it cold outside? ",
+				"text": "Is it cold outside ",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is it going to rain tomorrow?",
+				"text": "Is it going to rain tomorrow",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the weather like at Jo's place right now?",
+				"text": "What's the weather like at Jo's place right now",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Can I walk to my next meeting?",
+				"text": "Can I walk to my next meeting",
 				"intent": "unknown"
 			},
 			{
@@ -6616,102 +6616,102 @@
 			},
 			{
 				"id": 1,
-				"text": "Will it rain in the next 30 minutes?",
+				"text": "Will it rain in the next 30 minutes",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the weather like in Paris, New York and Chicago?",
+				"text": "What's the weather like in Paris, New York and Chicago",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the weather forecast for the rest of the week?",
+				"text": "What's the weather forecast for the rest of the week",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the weather like from New York to Boston?",
+				"text": "What's the weather like from New York to Boston",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "How windy will it be tomorrow?",
+				"text": "How windy will it be tomorrow",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Should I have an umbrella with me tomorrow?",
+				"text": "Should I have an umbrella with me tomorrow",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What will the weather be like at Jo's place this afternoon?",
+				"text": "What will the weather be like at Jo's place this afternoon",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Can I go hiking this afternoon?",
+				"text": "Can I go hiking this afternoon",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What is the temperature tomorrow morning?",
+				"text": "What is the temperature tomorrow morning",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is it cold outside?",
+				"text": "Is it cold outside",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Should I take an umbrella to walk to my dinner?",
+				"text": "Should I take an umbrella to walk to my dinner",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What will the weather be like from Home to Jo's place?",
+				"text": "What will the weather be like from Home to Jo's place",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the weather like in 3 days?",
+				"text": "What's the weather like in 3 days",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What will the weather be like from 8am to 2pm in Central Park?",
+				"text": "What will the weather be like from 8am to 2pm in Central Park",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What will the weather be like tomorrow morning?",
+				"text": "What will the weather be like tomorrow morning",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Can I take my bike to go to work today?",
+				"text": "Can I take my bike to go to work today",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What will the weather be like in London next week?",
+				"text": "What will the weather be like in London next week",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is it windy today?",
+				"text": "Is it windy today",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the weather like at work?",
+				"text": "What's the weather like at work",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is it going to be sunny next week?",
+				"text": "Is it going to be sunny next week",
 				"intent": "unknown"
 			},
 			{
@@ -6721,42 +6721,42 @@
 			},
 			{
 				"id": 1,
-				"text": "It is a beautiful day for a walk?",
+				"text": "It is a beautiful day for a walk",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's it like outside?",
+				"text": "What's it like outside",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What will the weather be like when I land in Paris?",
+				"text": "What will the weather be like when I land in Paris",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Is it raining right now?",
+				"text": "Is it raining right now",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What will the weather be like at my Airbnb this week end?",
+				"text": "What will the weather be like at my Airbnb this week end",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Whats the weather like in Bordeaux?",
+				"text": "Whats the weather like in Bordeaux",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "What's the weather like near my upcoming event?",
+				"text": "What's the weather like near my upcoming event",
 				"intent": "unknown"
 			},
 			{
 				"id": 1,
-				"text": "Will it rain tomorrow near my all day event?",
+				"text": "Will it rain tomorrow near my all day event",
 				"intent": "unknown"
 			},
 			{
@@ -6766,7 +6766,7 @@
 			},
 			{
 				"id": 1,
-				"text": "What will the weather be like when I get out of my afternoon meeting?",
+				"text": "What will the weather be like when I get out of my afternoon meeting",
 				"intent": "unknown"
 			},
 			{
@@ -6776,7 +6776,7 @@
 			},
 			{
 				"id": 1,
-				"text": "Should I take a rain coat today?",
+				"text": "Should I take a rain coat today",
 				"intent": "unknown"
 			}
 		],
